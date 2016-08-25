@@ -1,0 +1,12 @@
+{
+    "name": "scarbous/mr_controller_access",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Scarbous\\MrControllerAccess\\": "Classes/"
+        }
+    },
+    "type": "typo3-cms-extension",
+    "keywords": ["TYPO3 CMS", "templating", "bootstrap"],
+    "license": "GPL-2.0+"
+}
